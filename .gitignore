@@ -1,0 +1,8 @@
+# IntellijIdea files
+.idea/
+.DS_Store
+node_modules/
+yarn.lock
+assets/
+.eslintrc.js
+.prettierrc.js
